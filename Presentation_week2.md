@@ -237,6 +237,13 @@ public class DatabaseConfig {
 }
 ```
 
+  <br/>
+
+#### Team blog
+
+ - [:santa: Tistory](https://juliabiolat.tistory.com/84)
+ - [:ghost: GITHUB](https://github.com/Kyungmin97/YCTech_Backend/blob/main/%EA%B0%95%EC%9D%98%20%EB%85%B8%ED%8A%B8/2%EC%A3%BC%EC%B0%A8-%EC%84%A0%ED%96%89.md)
+  
 #### 학습 참조 자료  
 - https://www.baeldung.com/spring-tutorial
 - https://wildeveloperetrain.tistory.com/139

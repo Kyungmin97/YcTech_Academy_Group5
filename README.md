@@ -10,7 +10,7 @@ Below is our presentation file
 
 Below is our Project file
 
-[:santa:기획](https://github.com/Kyungmin97/YcTech_Academy_Group5/blob/main/Project/04w_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D.md)
+[:santa:기획](https://github.com/Kyungmin97/YcTech_Academy_Group5/blob/main/Project/04w_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D.md)  
 [:santa:진행 상황 Git](https://github.com/Kyungmin97/YcTech_Academy_Group5/tree/test1)
 
 
